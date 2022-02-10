@@ -1,6 +1,6 @@
 let numeroMaquina = Math.floor(Math.random() * (10 -1)) + 1;
 console.log(numeroMaquina);
-let numeroUser = parseInt(prompt(`Adivine numero del 1 al 10 `));
+let numeroUser = parseInt(prompt(`Adivina un numero del 1 al 10 `));
 
 let vidas = 3;
 
